@@ -1,0 +1,4 @@
+{"level":"info","message":"server is running on port 4000","timestamp":"2025-07-24T11:02:02.278Z"}
+{"level":"info","message":"inngest endpoint available at http://localhost:4000/api/inngest","timestamp":"2025-07-24T11:02:02.281Z"}
+{"level":"info","message":"server is running on port 4000","timestamp":"2025-07-24T11:06:15.223Z"}
+{"level":"info","message":"inngest endpoint available at http://localhost:4000/api/inngest","timestamp":"2025-07-24T11:06:15.225Z"}
