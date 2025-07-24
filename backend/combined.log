@@ -1,1 +1,4 @@
 
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-07-24T16:16:18.536Z"}
+{"level":"info","message":"Server is running on port 4000","timestamp":"2025-07-24T16:16:18.543Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:4000/api/inngest","timestamp":"2025-07-24T16:16:18.543Z"}
