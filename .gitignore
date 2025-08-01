@@ -42,3 +42,15 @@ next-env.d.ts
 
 
 **/node_modules
+
+
+
+
+backend/error.log
+backend/combined.log
+
+# Log files
+*.log
+*.log.*
+/logs
+!important.log
